@@ -4,12 +4,14 @@
 
 Este repositorio contiene la **pre-entrega del Trabajo Práctico Integrador de Data Analytics**, correspondiente a las **etapas 1 y 2 del proyecto** de pasantía en *SynthData*.  
 El objetivo es demostrar habilidades en **recopilación, preparación, limpieza y análisis de datos** utilizando **Python y Pandas**.
+
 Además, se incorpora la **Entrega Final**, donde se desarrollan las etapas 3 y 4, enfocadas en análisis estadístico, visualización avanzada y comunicación de resultados.
+
 ---
 
 ## 🧩 Objetivos del Proyecto
 
-El trabajo se divide en dos grandes etapas:
+El trabajo se divide en 4 grandes etapas:
 
 ### 🔹 Etapa 1 – Recopilación y Preparación de Datos
 - Cargar los **sets de datos** como DataFrames.
@@ -146,4 +148,4 @@ La evaluación se basa en la siguiente rúbrica:
 
 **Nombre y Apellido:** Leandro Victorino Cruz 
 **Materia:** Data Analytics – SynthData Internship  
-**Fecha:** Octubre 2025  
+**Fecha:** Diciembre 2025  
